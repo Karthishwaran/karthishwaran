@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Karthishwaran/karthishwaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Karthishwaran!
+💻 Aspiring Full Stack Developer | Web Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+I'm a 3rd-year Artificial intelligence and data science student at Tamilnadu College of Engineering, passionate about designing and developing responsive, scalable, and high-performing web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🔭 Currently working on: Full Stack projects and web applications.
+
+🌱 Currently learning: Backend development with Node.js and Express.js.
+
+💬 Ask me about: Frontend, Backend, SQL, and Python .
+
+🤝 Looking to collaborate on: Web apps and open-source projects.
+
+📫 How to reach me: karthishwaran81@gmail.com
+
+⚡ Fun fact: I love turning ideas into functional and visually appealing websites!
+
+🛠️ Tech Stack
+🌐 Frontend
+HTML, CSS, JavaScript
+
+⚙️ Backend
+Python
+
+Node.js (Learning)
+
+🗄️ Database
+SQL (MySQL)
+
+🔧 Dev Tools
+Git, GitHub, VS Code

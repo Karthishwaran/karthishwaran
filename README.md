@@ -9,7 +9,7 @@ I'm a 3rd-year Artificial intelligence and data science student at Tamilnadu Col
 
 🌱 Currently learning: Backend development with Node.js and Express.js.
 
-💬 Ask me about: Frontend, Backend, SQL, and Python .
+💬 Ask me about: Frontend, Backend, Database .
 
 🤝 Looking to collaborate on: Web apps and open-source projects.
 

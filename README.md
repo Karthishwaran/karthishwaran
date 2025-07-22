@@ -2,7 +2,7 @@
 👋 Hi, I'm Karthishwaran!
 💻 Aspiring Full Stack Developer | Web Enthusiast | Tech Explorer
 
-I'm a 3rd-year Artificial intelligence and data science student at Tamilnadu College of Engineering, passionate about designing and developing responsive, scalable, and high-performing web applications.
+I'm a Final Year, Artificial intelligence and data science student at Tamilnadu College of Engineering, passionate about designing and developing responsive, scalable, and high-performing web applications.
 
 🚀 About Me
 🔭 Currently working on: Full Stack projects and web applications.

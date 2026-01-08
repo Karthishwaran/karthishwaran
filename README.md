@@ -19,7 +19,7 @@ I'm a Final Year, Artificial intelligence and data science student at Tamilnadu 
 
 🛠️ Tech Stack
 🌐 Frontend
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript,React.js
 
 ⚙️ Backend
 Python

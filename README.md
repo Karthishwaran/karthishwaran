@@ -1,33 +1,31 @@
 
 👋 Hi, I'm Karthishwaran!
-💻 Aspiring Full Stack Developer | Web Enthusiast | Tech Explorer
+💻 Aspiring Full Stack Developer | Software Developer | Tech Explorer
 
-I'm a Final Year, Artificial intelligence and data science student at Tamilnadu College of Engineering, passionate about designing and developing responsive, scalable, and high-performing web applications.
+I'm Artificial intelligence and data science Graduate at Tamilnadu College of Engineering, passionate about designing and developing responsive, scalable, and high-performing web applications.
 
 🚀 About Me
 🔭 Currently working on: Full Stack projects and web applications.
 
-🌱 Currently learning: Backend development with Node.js and Express.js.
+🌱  Backend development with Node.js and Express.js,Django.
 
 💬 Ask me about: Frontend, Backend, Database .
 
 🤝 Looking to collaborate on: Web apps and open-source projects.
 
-📫 How to reach me: karthishwaran81@gmail.com
+📫 How to reach me: karthishwaran.btech@gmail.com
 
 ⚡ Fun fact: I love turning ideas into functional and visually appealing websites!
 
 🛠️ Tech Stack
 🌐 Frontend
-HTML, CSS, JavaScript,React.js
+HTML, CSS,Bootstrap, JavaScript,React.js
 
 ⚙️ Backend
-Python
-
-Node.js (Learning)
+Python,Node.js,Express.js,Django
 
 🗄️ Database
-SQL (MySQL)
+SQL (MySQL),MongoDB
 
 🔧 Dev Tools
 Git, GitHub, VS Code
